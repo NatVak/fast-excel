@@ -21,6 +21,9 @@
     ]
   },
   "autoload-dev": {
+            "branch-alias": {
+            "dev-master": "master"
+        },
     "psr-4": {
       "Rap2hpoutre\\FastExcel\\Tests\\": "tests/"
     }
