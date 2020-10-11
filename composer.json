@@ -32,8 +32,12 @@
     "laravel": {
       "providers": [
           "Rap2hpoutre\\FastExcel\\Providers\\FastExcelServiceProvider"
-      ]
-    }
+      ],
+          "branch-alias": {
+            "dev-master": "master"
+        }
+    },
+
   },
   "license": "MIT",
   "authors": [
